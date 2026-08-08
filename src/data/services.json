@@ -1,0 +1,17 @@
+[
+  {
+    "id": "service-1",
+    "name": "{{ }}",
+    "description": "{{ }}"
+  },
+  {
+    "id": "service-2",
+    "name": "{{ }}",
+    "description": "{{ }}"
+  },
+  {
+    "id": "service-3",
+    "name": "{{ }}",
+    "description": "{{ }}"
+  }
+]
