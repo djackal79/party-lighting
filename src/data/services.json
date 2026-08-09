@@ -1,17 +1,17 @@
 [
   {
-    "id": "service-1",
-    "name": "{{ }}",
-    "description": "{{ }}"
+    "id": "igracelite-5in1",
+    "name": "Igracelite 5-in-1 Strobe Moving Head Par",
+    "description": "High-powered 300W moving head par featuring 5-in-1 LED technology and strobe capabilities. Delivers intense, dynamic beams and vibrant washes for high-energy dancefloors."
   },
   {
-    "id": "service-2",
-    "name": "{{ }}",
-    "description": "{{ }}"
+    "id": "alien-6head-kingkong",
+    "name": "Alien 6-Head Kingkong Laser Strobe",
+    "description": "Multi-beam laser strobe unit that sweeps sharp, synchronized light beams across the venue. Excellent for cutting through atmospheric haze and elevating the room's energy."
   },
   {
-    "id": "service-3",
-    "name": "{{ }}",
-    "description": "{{ }}"
+    "id": "gigbar-system",
+    "name": "Gigbar Lighting System",
+    "description": "An all-in-one lighting solution that combines wash lights, derbys, strobes, and lasers on a single stand. Guarantees maximum visual impact with efficient, reliable rigging."
   }
 ]
